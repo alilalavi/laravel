@@ -13,7 +13,7 @@ class ProfileBL
 
     public static function ali()
     {
-        return'ssali';
+        return'sali';
     }
 
 }
