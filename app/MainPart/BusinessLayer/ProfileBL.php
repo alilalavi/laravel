@@ -8,12 +8,7 @@ class ProfileBL
     public static function getperson()
     {
         $w = PersonDAL::getperson();
-        return $w;
-    }
-
-    public static function ali()
-    {
-        return'sali';
+//        return $w;
     }
 
 }
