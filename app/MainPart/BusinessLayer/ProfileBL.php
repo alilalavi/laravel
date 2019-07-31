@@ -11,4 +11,9 @@ class ProfileBL
         return $w;
     }
 
+    public static function ali()
+    {
+        
+    }
+
 }
